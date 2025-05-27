@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 
-LLM (Groq + Mixtral model): Generates a short story based on user input
+LLM (Groq + LlaMa model): Generates a short story based on user input
 LangChain: Orchestrates the AI pipeline and handles story segmentation
 Stable Diffusion (Hugging Face): Generates images for each story scene
 TTS (Google TTS): Converts story text into narration audio
