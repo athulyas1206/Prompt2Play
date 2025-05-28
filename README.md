@@ -16,12 +16,12 @@
 
 ## 🛠️ Tech Stack
 
-LLM (Groq + LlaMa model): Generates a short story based on user input
-LangChain: Orchestrates the AI pipeline and handles story segmentation
-Stable Diffusion (Hugging Face): Generates images for each story scene
-TTS (Google TTS): Converts story text into narration audio
-MoviePy: Merges images and audio into a complete video
-Gradio UI: Provides an interactive chatbot-like experience for users
+1. LLM (Groq + LlaMa model): Generates a short story based on user input
+2. LangChain: Orchestrates the AI pipeline and handles story segmentation
+3. Stable Diffusion (Hugging Face): Generates images for each story scene
+4. TTS (Google TTS): Converts story text into narration audio
+5. MoviePy: Merges images and audio into a complete video
+6. Gradio UI: Provides an interactive chatbot-like experience for users
 
 ---
 ## 📌 How to Use
